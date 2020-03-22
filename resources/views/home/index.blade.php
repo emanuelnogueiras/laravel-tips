@@ -28,15 +28,33 @@
                             Se trata de un ejemplo en el que, utilizando Livewire, 
                             podemos realizar una búsqueda en Tiempo Real sin tener 
                             que recargar la página. 
-                        </p>
-                        <p class="mt-1">
-                            Tampoco estamos usando componentes Vue ni Axios, 
-                            tan solo con Laravel + Livewire podemos conseguir este resultado
-                            de forma rápida y sencilla.
-                        </p>
+                        </p>                        
                     </div>
                     <div class="card-footer text-center">
-                        <a href="/tips/01" class="btn btn-primary">Acceder</a>
+                        <a href="/tips/01" class="btn btn-primary">Acceder Tip #1</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="m-0"><strong>Tip #2 | LaraTips</strong></h5>                        
+                    </div>
+                    <div class="card-body">
+                        <h3 class=" m-0 card-title">
+                            <strong>
+                                CRUD con Livewire
+                            </strong>
+                        </h3>                        
+                        <small class="text-muted">Creado el 22 de marzo de 2020.</small>
+                        <p class="mt-1">
+                            Se trata de un ejemplo en el que, utilizando Livewire, 
+                            podemos realizar la creación, edición y también eliminar notas. 
+                        </p>                        
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="/tips/02" class="btn btn-primary">Acceder Tip #2</a>
                     </div>
                 </div>
             </div>
