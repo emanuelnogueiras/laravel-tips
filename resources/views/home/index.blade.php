@@ -44,13 +44,13 @@
                     <div class="card-body">
                         <h3 class=" m-0 card-title">
                             <strong>
-                                CRUD con Livewire
+                                Notas con Livewire
                             </strong>
                         </h3>                        
                         <small class="text-muted">Creado el 22 de marzo de 2020.</small>
                         <p class="mt-1">
                             Se trata de un ejemplo en el que, utilizando Livewire, 
-                            podemos realizar la creación, edición y también eliminar notas. 
+                            podemos realizar la creación de notas en Tiempo Real y sin recargar la página.
                         </p>                        
                     </div>
                     <div class="card-footer text-center">
