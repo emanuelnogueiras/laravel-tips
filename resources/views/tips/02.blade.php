@@ -53,6 +53,18 @@
                 </div>
             </div>
         </div>
+
+        <hr>
+        <h5><strong>Código Fuente</strong></h5>
+        <div class="row d-flex justify-content-center mt-3">
+            <div class="col-lg-6 col-md-8">
+                <div class="card-body shadow bg-white rounded">
+                    <pre><code class="html">
+                     
+                    </code></pre>
+                </div>
+            </div>
+        </div>
         
         <hr>
         <p class="text-muted">
