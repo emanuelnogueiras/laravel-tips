@@ -5,9 +5,9 @@ En este repositiorio voy a ir subiendo diferentes ejemplos rápidos, trucos, y v
 
 Pronto se subirán más tips, puede estar atento al canal de Youtube para no perderte ninguno.
 
-[Canal en Youtube de laravel en Español](https://www.youtube.com/channel/UCmVRBLIWMGFTlilVWLdbVoQ)
+[Canal en Youtube de Laravel en Español](https://www.youtube.com/channel/UCmVRBLIWMGFTlilVWLdbVoQ)
 
-[![Accede al Canal](https://static.elcorreo.com/www/multimedia/201808/27/media/youtube.jpg)](https://www.youtube.com/channel/UCmVRBLIWMGFTlilVWLdbVoQ)
+[![Accede al Canal](https://i.ibb.co/8X3ssKB/youtube2.png)](https://www.youtube.com/channel/UCmVRBLIWMGFTlilVWLdbVoQ)
 
 ## Tip #1 - Buscador con Auto-Completar
 
