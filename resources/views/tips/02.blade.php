@@ -53,8 +53,8 @@
                 </div>
             </div>
         </div>
-        
-        <hr>
+
+        <hr>        
         <p class="text-muted">
             Este ejemplo se ha realizado bajo <a href="https://es.wikipedia.org/wiki/Licencia_MIT" target="_blank">Licencia MIT</a>.
         </p>

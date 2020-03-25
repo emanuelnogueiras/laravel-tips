@@ -45,7 +45,7 @@
     </div>
     <hr>
     
-    <div wire:poll.1s="eliminarNotasViejas">
+    <div wire:poll.10s="eliminarNotasViejas">
         <small class="text-muted">Fecha actual: {{ now() }}</small>
     </div>
     
